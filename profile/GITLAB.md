@@ -11,6 +11,7 @@ Todos os repositórios de projetos de clientes estão alocados na organização 
 ## 👤 Conta de Acesso
 
 1. Crie sua conta no GitLab utilizando seu e-mail empresarial:
+
    ```
    seu.nome@devio.com.br
    ```
@@ -18,7 +19,7 @@ Todos os repositórios de projetos de clientes estão alocados na organização 
 2. Após criar a conta, copie o **nome de usuário** exibido no topo da página do GitLab.  
    Esse nome será necessário para que você seja adicionado aos projetos.
 
-   ![Usuário do GitLab](images/gitlab_profile.png)
+   ![Usuário do GitLab](../images/gitlab_profile.png)
 
 ---
 

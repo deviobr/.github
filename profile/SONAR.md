@@ -9,7 +9,7 @@ Ela fornece **feedbacks automáticos** e **métricas** importantes sobre a quali
 
 ## 📊 Indicadores
 
-![Métricas do Sonar](images/sonar_metrics.png)
+![Métricas do Sonar](../images/sonar_metrics.png)
 
 - **Security**: Trechos do código que podem conter falhas de segurança.
 - **Reliability**: Código com baixo padrão de legibilidade ou potencialmente instável.

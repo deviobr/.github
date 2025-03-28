@@ -16,21 +16,22 @@ Siga os passos abaixo:
 ### 🔧 Gerando o Token no GitHub
 
 1. Clique no seu **avatar** (canto superior direito) e vá em `Settings`  
-   ![settings](images/settings.png)
+   ![settings](../images/settings.png)
 
 2. No menu lateral, vá até o final da página e clique em `Developer settings`  
-   ![developer settings](images/developer_settings.png)
+   ![developer settings](../images/developer_settings.png)
 
 3. Clique em `Personal access tokens`, depois selecione `Tokens (classic)`  
-   ![token clássico](images/classic_token.png)
+   ![token clássico](../images/classic_token.png)
 
 4. Clique em `Generate new token` e selecione `Classic`
 
 5. Configure o token:
+
    - Dê um nome como: `NPM_DEVIO_TOKEN`
    - Em **expiration**, escolha `No expiration` (preferencialmente)
    - Marque as permissões conforme a imagem:  
-     ![permissões de acesso](images/token_access.png)
+     ![permissões de acesso](../images/token_access.png)
 
 6. Após gerar, copie o token e execute os comandos abaixo no terminal:
 

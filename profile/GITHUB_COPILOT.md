@@ -11,7 +11,7 @@ Essa ferramenta é um assistente de codificação com inteligência artificial q
 
 1. Instale a extensão **GitHub Copilot** no **VS Code**:
 
-   ![github copilot](images/github_copilot.png)
+   ![github copilot](../images/github_copilot.png)
 
 2. Após a instalação, siga as instruções exibidas no editor para **ativar e autenticar** sua conta GitHub.
 
