@@ -21,18 +21,18 @@ Este projeto informativo foi criado para te ajudar com:
 
 Esses são os principais sistemas que você utilizará na rotina de desenvolvimento:
 
-- [`Codes`](CODES.md) – Ferramenta automatizada de deploy (Dev, Homologação, Produção)
-- [`Sonar`](SONAR.md) – Análise de código e métricas de qualidade
-- [`GitLab`](GITLAB.md) – Repositórios dos projetos Devio
-- [`GitHub Copilot`](GITHUB_COPILOT.md) – Assistente inteligente de código
-- [`Freshdesk`](FRESHDESK.md) – Chamados de clientes para bugs, dúvidas e melhorias
+- [`Codes`](https://github.com/deviobr/GUIDE/blob/main/CODES.md) – Ferramenta automatizada de deploy (Dev, Homologação, Produção)
+- [`Sonar`](https://github.com/deviobr/GUIDE/blob/main/SONAR.md) – Análise de código e métricas de qualidade
+- [`GitLab`](https://github.com/deviobr/GUIDE/blob/main/GITLAB.md) – Repositórios dos projetos Devio
+- [`GitHub Copilot`](https://github.com/deviobr/GUIDE/blob/main/GITHUB_COPILOT.md) – Assistente inteligente de código
+- [`Freshdesk`](https://github.com/deviobr/GUIDE/blob/main/FRESHDESK.md) – Chamados de clientes para bugs, dúvidas e melhorias
 
 ---
 
 ## 📦 Pacotes Devio
 
 Antes de instalar qualquer pacote Devio, é **obrigatório** realizar o processo de autenticação, pois todos os nossos pacotes são privados.  
-👉 Acesse o guia de autenticação: [`Packages`](PACKAGES.md)
+👉 Acesse o guia de autenticação: [`Packages`](https://github.com/deviobr/GUIDE/blob/main/PACKAGES.md)
 
 ### Utilitários Disponíveis:
 
