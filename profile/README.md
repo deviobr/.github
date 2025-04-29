@@ -42,6 +42,19 @@ Antes de instalar qualquer pacote Devio, é **obrigatório** realizar o processo
 
 ---
 
+## 🧠 Recursos Adicionais
+
+- [`IA Devio`](https://ai.devio.codes) – Inteligência Artificial paga pela Devio para apoio ao desenvolvimento.
+- [`Solutions`](https://devio.canny.io/) – Central ideias, melhorias e recompensas.
+- [`Documentos de Boas Práticas`](https://doc.clickup.com/3140578/d/h/2zuz2-4377/043458276acff70) – Guia completo de boas práticas de desenvolvimento.
+- [`JAM`](https://jam.dev/) – Ferramenta para gravação de tela e console.
+
+### 📄 Documentos Importantes
+
+- [`Apresentação Onboarding (PDF)`](./Apresentação%20Onboarding.pdf) – Download do material de processos Devio.
+
+---
+
 ## 📣 Precisa de ajuda?
 
 Caso surjam dúvidas ou você precise de suporte com qualquer item descrito aqui, fale com o seu **gestor direto**.  
