@@ -24,7 +24,7 @@ Esses são os principais sistemas que você utilizará na rotina de desenvolvime
 - [`Codes`](https://github.com/deviobr/GUIDE/blob/main/CODES.md) – Ferramenta automatizada de deploy (Dev, Homologação, Produção)
 - [`Sonar`](https://github.com/deviobr/GUIDE/blob/main/SONAR.md) – Análise de código e métricas de qualidade
 - [`GitLab`](https://github.com/deviobr/GUIDE/blob/main/GITLAB.md) – Repositórios dos projetos Devio
-- [`GitHub Copilot`](https://github.com/deviobr/GUIDE/blob/main/GITHUB_COPILOT.md) – Assistente inteligente de código
+- [`Cursor`](https://github.com/deviobr/GUIDE/blob/main/GITHUB_COPILOT.md) – IDE com AI
 - [`Freshdesk`](https://github.com/deviobr/GUIDE/blob/main/FRESHDESK.md) – Chamados de clientes para bugs, dúvidas e melhorias
 
 ---
@@ -49,9 +49,21 @@ Antes de instalar qualquer pacote Devio, é **obrigatório** realizar o processo
 - [`Documentos de Boas Práticas`](https://doc.clickup.com/3140578/d/h/2zuz2-4377/043458276acff70) – Guia completo de boas práticas de desenvolvimento.
 - [`JAM`](https://jam.dev/) – Ferramenta para gravação de tela e console.
 
-### 📄 Documentos Importantes
+<!-- ### 📄 Documentos Importantes
 
-- [`Apresentação Onboarding (PDF)`](./Apresentação%20Onboarding.pdf) – Download do material de processos Devio.
+- [`Apresentação Onboarding (PDF)`](./Apresentação%20Onboarding.pdf) – Download do material de processos Devio. -->
+
+---
+
+## 🔧 Desenvolvimento
+
+Esses são sugestões e ferramentas para auxiliar no desenvolvimento:
+
+- [`SMTP`](https://github.com/deviobr/GUIDE/blob/main/tools/SMTP.md) – Envio de emails em desenvolvimento (WEB, MOBILE, BACK)
+- [`CNPJ`](https://github.com/deviobr/GUIDE/blob/main/tools/CNPJ.md) – Obter informações de CNPJ (WEB, MOBILE, BACK)
+- [`LOCALIDADES`](https://github.com/deviobr/GUIDE/blob/main/tools/LOCALIDADES.md) – Obter informações de CEP, estado, cidade e país (WEB, MOBILE, BACK)
+- [`INPUT INTL TELEFONE`](https://github.com/deviobr/GUIDE/blob/main/tools/INPUT_INTL_PHONE.md) – Input internacional para telefone (WEB)
+- [`INPUT INTL MOEDA`](https://github.com/deviobr/GUIDE/blob/main/tools/INPUT_INTL_CURRENCY.md) – Input internacional para moedas (WEB)
 
 ---
 
